@@ -1,0 +1,6 @@
+- Using Cloud Deploy to manged the services that automates delivery of 
+your applications to a series of target environments in a defined 
+promotion sequence.
+
+https://cloud.google.com/deploy/docs/overview
+

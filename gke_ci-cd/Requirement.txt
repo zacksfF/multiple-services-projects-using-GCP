@@ -1,0 +1,5 @@
+- Cloud Deploy
+- Cloud Build 
+- Artifact Registry 
+- Google kubernetes Engine
+- Pushhhhh 
